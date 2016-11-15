@@ -1,4 +1,5 @@
 browser "tmux new-window links"
+bookmark-cmd "~/.local/bin/pinboard-read-later"
 
 save-path ~/Documents/newsbeuter
 
