@@ -1,0 +1,15 @@
+#!/bin/sh
+
+url="$1"
+title="$2"
+desc="$3"
+
+pinboard_url="https://api.pinboard.in/v1/posts/add?url=${url}&description=${title}&extended=${desc}&tags="via:newsbeuter"&toread=yes"
+
+output=`wget --http-user=$PINBOARD_USERNAME --http-passwd=$PINBOARD_PASSWORD -O - "$pinboard_url" 2> /dev/null`
+
+output=`echo $output | sed 's/^.*code="\([^"]*\)".*$/\1/'`
+
+if [ "$output" != "done" ] ; then
+  echo "$output"
+fi
