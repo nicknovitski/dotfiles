@@ -1,0 +1,938 @@
+"query:!Comics:unread = \"yes\" and tags # \"comic\""
+"query:!Text:unread = \"yes\" and tags !# \"comic\" and tags !# \"video\""
+"query:!Video:unread = \"yes\" and tags # \"video\""
+http://0pointer.net/blog/index.atom code
+http://250bpm.com/feed/pages/pagename/start/category/blog/t/250bpm-blogs/h/http%3A%2F%2Fwww.250bpm.com%2Fblog
+http://3eanuts.com/rss comic
+http://4loc.wordpress.com/feed/
+http://70sbig.com/feed/ strength
+http://750words.tumblr.com/rss app
+http://a-homesteading-neophyte.blogspot.com/feeds/posts/default
+http://aadrake.com/feed.atom
+http://aaeblog.com/feed/
+http://abstrusegoose.com/feed.xml
+http://acko.net/atom.xml
+http://acrobolix.com/feed/ "~Acrobolix" strength mobility
+http://adamierymenko.com/rss/
+http://akaptur.com/atom.xml
+http://alexvermeer.com/feed/
+http://allankelly.blogspot.com/feeds/posts/default "~Allan Kelly"
+http://allthesefoolishthings.blogspot.com/feeds/posts/default
+http://americanfutures.org/feed/
+http://amongthedust.blogspot.com/feeds/posts/default games
+http://amymartincomics.squarespace.com/blog/rss.xml comic "~Amy Martin"
+http://andre.arko.net/atom.xml
+http://arturpaikin.com/en/blog-feed.xml
+http://aws.amazon.com/new/feed/ "~AWS What's New" truncated
+http://axelfontaine.com/blog/atom.xml
+http://baatz.io/atom.xml code
+http://backcomic.com/rss.xml comic
+http://backend.deviantart.com/rss.xml?q=gallery:captainosaka/33834&type=deviation&offset=0 comic
+http://bayesianbodybuilding.com/feed/ slim
+http://begriffs.com/atom.xml
+http://benjaminrosshoffman.com/feed/
+http://bitemyapp.com/atom.xml
+http://bjk5.com/rss
+http://blog.50projects.com/atom.xml
+http://blog.8thlight.com/feed/atom.xml code
+http://blog.acolyer.org/feed/
+http://blog.alinelerner.com/feed/
+http://blog.andyet.com/rss code
+http://blog.asana.com/feed/ do app
+http://blog.asciinema.org/index.xml
+http://blog.atom.io/feed.xml
+http://blog.bucketlistly.com/rss
+http://blog.burntsushi.net/index.xml
+http://blog.carbonfive.com/feed/
+http://blog.circleci.com/feed/ app truncated
+http://blog.cityboundsim.com/rss/ game
+http://blog.codenvy.com/feed/
+http://blog.codeship.com/feed/
+http://blog.comealive.io/feed.xml
+http://blog.complice.co/rss do
+http://blog.cryptographyengineering.com/feeds/posts/default
+http://blog.datomic.com/feeds/posts/default?alt=rss
+http://blog.deathtobullshit.com/rss
+http://blog.deming.org/feed/
+http://blog.dnsimple.com/feed.xml
+http://blog.docker.com/feed/
+http://blog.durandal.io/rss/
+http://blog.evernote.com/tech/feed/ app
+http://blog.exosphe.re/feed/
+http://blog.fastmail.fm/feed/
+http://blog.fogcreek.com/feed/
+http://blog.foretellix.com/feed/
+http://blog.gameplaywright.net/rss
+http://blog.gardeviance.org/feeds/posts/default
+http://blog.garrytan.com/posts.atom
+http://blog.getify.com/feed/
+http://blog.getsentry.com/feed.xml
+http://blog.gitter.im/rss/
+http://blog.gumroad.com/rss
+http://blog.haskellformac.com/feed code app haskell
+http://blog.hubstaff.com/feed/ truncated
+http://blog.hut8labs.com/feeds/all.atom.xml
+http://blog.idonethis.com/feed/
+http://blog.jaibot.com/feed/
+http://blog.jbrains.ca/feed.xml
+http://blog.jessitron.com/feeds/posts/default?alt=rss
+http://blog.jupyter.org/rss/
+http://blog.keyboard.io/rss
+http://blog.kubernetes.io/feeds/posts/default cloud
+http://blog.kumu.io/rss/
+http://blog.loomio.org/feed/ org
+http://blog.minaal.com/rss/
+http://blog.nearfuturelaboratory.com/feed/
+http://blog.nickwinter.net/rss/
+http://blog.nodejs.org/feed/
+http://blog.noisebridge.net/rss
+http://blog.osmihelp.org/rss
+http://blog.padmapper.com/feed/
+http://blog.paperspace.com/rss/ app vardo
+http://blog.plover.com/index.rss
+http://blog.rememberthemilk.com/feed/atom/ do app
+http://blog.rubygems.org/atom.xml
+http://blog.rust-lang.org/feed.xml
+http://blog.samstokes.co.uk/atom.xml
+http://blog.schema.org/feeds/posts/default
+http://blog.sfgate.com/morford/feed/ truncated
+http://blog.sidereel.com/?feed=rss2
+http://blog.softwarecurmudgeon.com/rss/
+http://blog.sorah.jp/feed
+http://blog.soylent.com/rss
+http://blog.sqwiggle.com/rss/
+http://blog.stephenwolfram.com/feed/
+http://blog.testdouble.com/index.xml code
+http://blog.thecodewhisperer.com/atom.xml
+http://blog.totallynotmalware.net/?feed=rss2
+http://blog.travis-ci.com/blog.xml
+http://blog.trello.com/feed/
+http://blog.triplebyte.com/posts.atom
+http://blog.waffle.io/feed/ app
+http://blog.wercker.com/feed.xml
+http://blog.wolfram.com/feed/
+http://blog.xoxofest.com/rss
+http://bogost.com/feed/
+http://boondockorbust.com/feed/
+http://bradhicks.livejournal.com/data/rss
+http://bradssac.blogspot.com/feeds/posts/default
+http://brendanhay.nz/atom.xml
+http://brewster.kahle.org/feed/
+http://briantomasik.com/feed/
+http://broodhollow.chainsawsuit.com/feed/ comic
+http://brucesterling.tumblr.com/rss
+http://bullypulpitgames.com/feed/ rpgs
+http://bundler.io/blog/feed.xml
+http://cactusquid.blogspot.com/feeds/posts/default
+http://californiaonecare.org/feed/
+http://calvinanddune.tumblr.com/rss comic
+http://captainosaka.tumblr.com/rss comic
+http://carlocollodispinocchio.tumblr.com/rss comic "~Carlo Collodi's Pinocchio"
+http://carlos.bueno.org/atom.xml
+http://caseorganic.com/feed/
+http://chadfowler.com/feed.xml
+http://chneukirchen.org/trivium/index.atom
+http://christarzanclemens.com/feed/
+http://chuckgrossfitness.com/feed/
+http://clivethompson.net/feed/
+http://cloudnative.io/feeds/all.atom.xml
+http://codahale.com/atom.xml code
+http://codam.io/rss/
+http://codeascraft.com/feed/
+http://codeignition.co/atom.xml
+http://codetunes.com/feed/atom
+http://codon.com/feed.atom
+http://comonad.com/reader/feed/atom/
+http://compassandhatchet.com/feed/
+http://conal.net/blog/feed
+http://cryoshon.co/feed/
+http://cs-syd.eu/rss.xml
+http://cube-drone.com/rss.xml comic
+http://curtismchale.ca/feed/ truncated
+http://danjohn.net/feed/
+http://danluu.com/atom.xml
+http://dannorth.net/feed/
+http://dark-mountain.net/feed/
+http://davidad.github.io/atom.xml
+http://degoes.net/feed.xml
+http://designisrefactoring.com/feed.xml
+http://devo.ps/atom.xml
+http://dneiwert.blogspot.com/feeds/posts/default
+http://dopeboy.github.io/feed.xml
+http://doriantaylor.com/f07f5044-01bc-472d-9079-9b07771b731c truncated
+http://drivingblind.livejournal.com/data/rss
+http://dtrace.org/blogs/bmc/feed/
+http://dtrace.org/blogs/dap/feed/
+http://edgeperspectives.typepad.com/edge_perspectives/atom.xml
+http://ehrenreich.blogs.com/barbaras_blog/atom.xml "~Barbara Ehrenreich"
+http://electron.atom.io/feed.xml
+http://eng.climate.com/feed/
+http://eng.wealthfront.com/feed/ code
+http://engineering.imvu.com/feed/
+http://engineering.klarna.com/feed/
+http://engineering.riotgames.com/rss.xml
+http://engineering.squarespace.com/blog?format=RSS code
+http://engineering.zenpayroll.com/rss/
+http://english.bouletcorp.com/feed/ comic
+http://ericbouwers.blogspot.com/feeds/posts/default
+http://erniemiller.org/feed.xml
+http://eslint.org/feed.xml
+http://esotericmurmurs.blogspot.com/feeds/posts/default
+http://everywhereonce.com/feed/
+http://ewilen.livejournal.com/data/rss rpg
+http://existentialcomics.com/rss.xml comic
+http://exple.tive.org/blarg/feed/
+http://facebook.github.io/react/feed.xml
+http://fare.livejournal.com/data/rss
+http://feed43.com/2023102361452841.xml comic
+http://feeds.akkartik.name/kartiks-scrapbook
+http://feeds.dashes.com/AnilDash
+http://feeds.feedblitz.com/SethsBlog
+http://feeds.feedblitz.com/WeightyMatters
+http://feeds.feedblitz.com/danieltenner
+http://feeds.feedburner.com/ATypingLout
+http://feeds.feedburner.com/AffordAnythingFeed min
+http://feeds.feedburner.com/CasitaEscapes
+http://feeds.feedburner.com/ClickNothing
+http://feeds.feedburner.com/ConstantContactTechBlog
+http://feeds.feedburner.com/EarlyRetirementExtreme?format=xml
+http://feeds.feedburner.com/EasternStandard
+http://feeds.feedburner.com/FantasyHeartbreakerByRussellBailey
+http://feeds.feedburner.com/Frugalwoods
+http://feeds.feedburner.com/GameshelfBlog
+http://feeds.feedburner.com/GiantRobotsSmashingIntoOtherGiantRobots
+http://feeds.feedburner.com/InterstellarOrchard
+http://feeds.feedburner.com/JamesClear
+http://feeds.feedburner.com/JohnResig
+http://feeds.feedburner.com/Kadavynet
+http://feeds.feedburner.com/KaporCenter
+http://feeds.feedburner.com/KatzGotYourTongue
+http://feeds.feedburner.com/KrisJenkinsBlog code
+http://feeds.feedburner.com/LionelBarrowsBlog
+http://feeds.feedburner.com/LostGarden
+http://feeds.feedburner.com/Maneeshsethicom
+http://feeds.feedburner.com/MeltingAsphalt
+http://feeds.feedburner.com/MimiAndEunice comic
+http://feeds.feedburner.com/ModernPolymathism
+http://feeds.feedburner.com/MrMoneyMustache min
+http://feeds.feedburner.com/NinaPaleysBlog
+http://feeds.feedburner.com/OpenTheFuture
+http://feeds.feedburner.com/PlataformaBlog_english code elixir
+http://feeds.feedburner.com/SoftwareByRob code
+http://feeds.feedburner.com/TammerSaleh
+http://feeds.feedburner.com/TheAtlanticCities
+http://feeds.feedburner.com/TheGivewellBlog ~GiveWell
+http://feeds.feedburner.com/Tinyhousebuildcom min
+http://feeds.feedburner.com/Vagabloggers nomad
+http://feeds.feedburner.com/WebServices20?format=xml
+http://feeds.feedburner.com/abominable comic
+http://feeds.feedburner.com/advancedriskology
+http://feeds.feedburner.com/agilebits
+http://feeds.feedburner.com/alistapart/main
+http://feeds.feedburner.com/andrew-makes-things
+http://feeds.feedburner.com/andrzejkrzywda
+http://feeds.feedburner.com/arkency.xml
+http://feeds.feedburner.com/becomingminimalistcom
+http://feeds.feedburner.com/blogflattr
+http://feeds.feedburner.com/bmndr do
+http://feeds.feedburner.com/bodeswell/gyqT rv
+http://feeds.feedburner.com/braidcreative e
+http://feeds.feedburner.com/buckblog truncated code
+http://feeds.feedburner.com/codeclimate
+http://feeds.feedburner.com/cognitionfeed
+http://feeds.feedburner.com/danielmall-articles
+http://feeds.feedburner.com/douglasrushkoff
+http://feeds.feedburner.com/ezyang
+http://feeds.feedburner.com/foodpoliticsfeed
+http://feeds.feedburner.com/fpcomplete
+http://feeds.feedburner.com/freerangehumans
+http://feeds.feedburner.com/fullbright truncated
+http://feeds.feedburner.com/getrichslowly money min
+http://feeds.feedburner.com/hashrocket-blog
+http://feeds.feedburner.com/ideo/news
+http://feeds.feedburner.com/introversion_blog games
+http://feeds.feedburner.com/jobstobedone truncated
+http://feeds.feedburner.com/kinokofryfeed comic
+http://feeds.feedburner.com/leangains ~leangains strength slim
+http://feeds.feedburner.com/leanpub
+http://feeds.feedburner.com/lifereengineered
+http://feeds.feedburner.com/longnow
+http://feeds.feedburner.com/martinkl
+http://feeds.feedburner.com/paulhammant
+http://feeds.feedburner.com/pgrs
+http://feeds.feedburner.com/reverbhq
+http://feeds.feedburner.com/rkh
+http://feeds.feedburner.com/rudiusmedia/rch
+http://feeds.feedburner.com/ryangtanaka
+http://feeds.feedburner.com/shopify-technology
+http://feeds.feedburner.com/smartpassiveincome e truncated "~Smart Passive Income"
+http://feeds.feedburner.com/solnic-on-blog/
+http://feeds.feedburner.com/steveklabnik truncated code
+http://feeds.feedburner.com/steveklabnik/words code
+http://feeds.feedburner.com/techdirt/feed
+http://feeds.feedburner.com/thesimplicitycollective
+http://feeds.feedburner.com/thetechnium
+http://feeds.feedburner.com/thoughtworks-blogs code
+http://feeds.feedburner.com/tpope code
+http://feeds.feedburner.com/tynan min nomad e
+http://feeds.feedburner.com/typepad/KathySierra/creating_passionate_users
+http://feeds.feedburner.com/typepad/rzYD
+http://feeds.feedburner.com/wondermark comic
+http://feeds.feedburner.com/zachphillips
+http://feeds.igvita.com/igvita
+http://feeds.kottke.org/main
+http://feeds.tempobook.com/tempobook
+http://feeds2.feedburner.com/AdamSmith truncated
+http://feeds2.feedburner.com/ExileLifestyle truncated
+http://feeds2.feedburner.com/TheMightyAtom
+http://feeds2.feedburner.com/VirtuousCode
+http://feeds2.feedburner.com/messymatters ~MessyMatters
+http://feeds2.feedburner.com/rsspect/fJur comic
+http://feeds2.feedburner.com/stevelosh
+http://feeds2.feedburner.com/symphonious
+http://ferd.ca/feed.rss
+http://fivethirtyeight.com/politics/feed/ politics
+http://foundational-research.org/feed/
+http://freedomboxfoundation.org/index.en.rss
+http://freeteaparty.org/blog/feed/ nomad
+http://frominsidethebox.com/feed.rss truncated rv
+http://futurice.com/blog/rss code
+http://gameplaywright.net/feed/ games
+http://gamersareembarrassing.wordpress.com/feed/ games
+http://garfieldminusgarfield.net/rss comic
+http://geoff.greer.fm/feed.atom
+http://gigigriffis.com/feed/
+http://gilesbowkett.blogspot.com/feeds/posts/default
+http://gitbookio.github.io/blog/feed.xml
+http://githubengineering.com/atom.xml
+http://gliderlabs.com/blog/atom.xml
+http://glyphpress.com/talk/feed/
+http://gobolatula.com/ithurts/?feed=rss2 comic
+http://grahamc.com/feed/ code
+http://granolashotgun.com/feed/
+http://graydon2.dreamwidth.org/data/rss
+http://headrush.typepad.com/creating_passionate_users/atom.xml
+http://hello-world.io/feed/ code truncated
+http://hennessyhammock.com/blogs/news.atom
+http://herzoginspirationals.tumblr.com/rss comic
+http://hiagb.com/rss.xml comic
+http://hintjens.com/feed/pages/pagename/blog%3A_start/category/blog/tags/-nofront/limit/999/t/Hintjens
+http://hofarc.com/feed/ truncated rv tinyhome
+http://hoffice.nu/en/feed/
+http://homemadestrength.blogspot.com/feeds/posts/default?alt=rss strength
+http://houseoffame.blogspot.com/feeds/posts/default
+http://hunterwalk.com/feed/
+http://ianwookim.org/blog/rss.xml code
+http://idlewords.com/index.xml
+http://ihumanable.com/blog/feed/
+http://imago.hitherby.com/feed/
+http://imago.hitherby.com/feed/
+http://incidentalcomplexity.com/atom.xml code
+http://ineteconomics.org/feed.rss
+http://inform7.com/news/feed/
+http://infrequently.org/feed/
+http://insights.sei.cmu.edu/devops/rss.xml
+http://instagram-engineering.tumblr.com/rss
+http://internetofownership.net/feed/
+http://inthebox.webmin.com/feed
+http://ipfs.io/blog/rss.xml
+http://jacquesmattheij.com/rss.xml
+http://jamey.thesharps.us/feeds/posts/default
+http://jasonferruggia.com/feed/
+http://jennamoran.tumblr.com/rss truncated
+http://jessemoynihan.com/?feed=rss2 comic
+http://jods.mitpress.mit.edu/data/rss.xml
+http://joeduffyblog.com/feed.xml
+http://joehewitt.com/index.xml
+http://joel.is/rss/
+http://joeskythedungeonbrawler.wordpress.com/feed/
+http://john.onolan.org/rss/
+http://joi.ito.com/feeds/feed.xml
+http://jonathanischwartz.wordpress.com/feed/
+http://jpetazzo.github.io/atom.xml
+http://jsomers.net/blog/feed
+http://junctionpoint.wordpress.com/feed/
+http://junegunn.kr/atom.xml
+http://killsixbilliondemons.com/feed/ comic
+http://lackadaisycats.com/rss/ comic
+http://lambda-the-ultimate.org/rss.xml
+http://latentcontent.net/atom.xml
+http://laughingmeme.org/feed/atom/
+http://leighalexander.net/feed/
+http://lessig.tumblr.com/rss
+http://lethalman.blogspot.com/feeds/posts/default
+http://lg.io/feed.xml
+http://lighttable.com/atom.xml
+http://lindastone.net/feed/
+http://linnaeus.wordpress.com/feed/
+http://littleyellowdoor.wordpress.com/feed/
+http://lizthedeveloper.com/posts.atom
+http://magazine.ouishare.net/feed/
+http://malcolmocean.com/feed/ do
+http://manu.sporny.org/feed/
+http://markdery.com/?feed=rss2
+http://marketurbanism.com/feed/
+http://martinfowler.com/feed.atom
+http://martintrojer.github.io/atom.xml
+http://mearls.livejournal.com/data/rss
+http://mediagoblin.org/news/index.xml
+http://merbist.com/feed/
+http://michaelkirkbride.tumblr.com/rss
+http://michaelrbernste.in/feed.xml
+http://midnitesurprise.com/rss
+http://mkremins.github.io/atom.xml
+http://mobilecodgers.blogspot.com/feeds/posts/default?alt=rss
+http://mobileopportunity.blogspot.com/feeds/posts/default
+http://moduscooperandi.com/feed/
+http://monospacedmonologues.com/rss
+http://moonbase.rydia.net/index.atom
+http://moreperfect.org/site/?feed=rss2 truncated
+http://morning.computer/feed/
+http://moronlab.blogspot.com/feeds/posts/default
+http://mradilbert.tumblr.com/rss comic
+http://named-data.net/feed/
+http://natpryce.com/news.feed
+http://nearthespeedoflight.com/index.xml
+http://necropoliscomic.tumblr.com/rss comic
+http://nedroid.com/feed/ comic
+http://neilmitchell.blogspot.com/feeds/posts/default
+http://neovintage.org/atom.xml
+http://nerds.airbnb.com/feed/
+http://networkcultures.org/moneylab/feed/
+http://new-bamboo.co.uk/blog/feed.xml
+http://ngnghm.github.io/feeds/all.atom.xml
+http://nickcraver.com/blog/feed.xml
+http://nmarshall23.livejournal.com/data/rss
+http://nomadlyinlove.com/feed
+http://nonadventures.com/feed/
+http://noredinktech.tumblr.com/rss ~NoRedInk code
+http://number-none.com/blow/blog/feed.xml code games
+http://nutrition.wolfbrigade.net/feed/
+http://nymote.org/atom.xml
+http://offgridtinylife.com/feed/
+http://ohanhi.github.io/feed.xml code
+http://omniorthogonal.blogspot.com/feeds/posts/default
+http://openoakland.org/feed/
+http://osv.io/blog/atom.xml
+http://owlturd.com/rss comic "~Owlturd Comix"
+http://pandoralive.info/?feed=rss2
+http://pathofnowandforever.tumblr.com/rss
+http://pathologic-game.com/blog/en/feed/ ~Pathologic games
+http://pchiusano.github.io/feed.xml
+http://perfcap.blogspot.com/feeds/posts/default?alt=rss cloud
+http://perspectives.mvdirona.com/SyndicationService.asmx/GetRss
+http://planet.nixos.org/atom.xml
+http://pleaselistencarefully.com/posts.atom
+http://plover.stenoknight.com/feeds/posts/default
+http://pomodorotechnique.com/feed/ do
+http://practicaltypography.com/feed.xml truncated
+http://preservenet.blogspot.com/feeds/posts/default
+http://prog21.dadgum.com/atom.xml
+http://programmingisterrible.com/rss
+http://progrium.com/blog/atom.xml
+http://purelivingforlife.com/feed/
+http://qualityisspeed.blogspot.com/feeds/posts/default?alt=rss
+http://rameznaam.com/feed/
+http://rancher.com/feed/
+http://randsinrepose.com/feed/
+http://rationality.org/feed/
+http://rauchg.com/essays/feed/ "~Guillermo Rauch"
+http://rein.pk/atom.xml
+http://remotepairprogramming.com/rss
+http://renaissancegamer.blogspot.com/feeds/posts/default
+http://renaissanceperiodization.com/feed/
+http://retireearlylifestyle.com/blog/feed/
+http://rippedbody.com/feed/ strength
+http://robdodson.me/rss/
+http://robrhinehart.com/?feed=rss2
+http://rockingfor30days.com/feed
+http://rodrik.typepad.com/dani_rodriks_weblog/atom.xml econ
+http://rom-rb.org/blog/feed.xml
+http://rooseveltinstitute.org/feed/
+http://roscidus.com/blog/atom.xml
+http://rowanmanning.com/blog.xml
+http://rspec.info/blog/feed.xml
+http://rss1.smashingmagazine.com/feed/ truncated
+http://rubini.us/feed/atom.xml
+http://rundis.github.io/blog/feed.xml
+http://ryancarson.com/rss
+http://sandervanderburg.blogspot.com/feeds/posts/default
+http://scattered-thoughts.net/atom.xml
+http://scottberkun.com/feed/
+http://scribdtech.wordpress.com/feed/
+http://seldo.com/api/getall/atom/10/0/full
+http://sfconservancy.org/feeds/blog/
+http://sicpers.info/feed/
+http://simplebrewkits.com/feed/
+http://sirartwork.tumblr.com/rss
+http://sivers.org/en.atom
+http://slackhq.com/rss
+http://slatestarcodex.com/feed/
+http://slicingpie.com/feed/
+http://snowmads.com/feed/
+http://sociocracy30.org/feed/ org
+http://sociocracyconsulting.com/feed/ org
+http://spin.atomicobject.com/feed/
+http://sprouttinyhomes.com/feed/
+http://stacktivism.tumblr.com/rss
+http://startingstrength.com/rss.rss strength truncated
+http://startupgeist.com/blog/feed/
+http://static.fsf.org/fsforg/rss/blogs.xml
+http://static.fsf.org/fsforg/rss/news.xml
+http://steveblank.com/feed/
+http://stevehanov.ca/blog/?atom
+http://stratechery.com/feed/
+http://stuartsierra.com/feed
+http://stumblingandmumbling.typepad.com/stumbling_and_mumbling/atom.xml
+http://superflux.in/newsfeed
+http://swannodette.github.io/atom.xml
+http://tagide.com/blog/feed/
+http://taskwarrior.org/feed.rss truncated
+http://tech.gilt.com/rss
+http://techblog.netflix.com/rss.xml
+http://the-orbit.net/brutereason/feed/
+http://thearchdruidreport.blogspot.com/feeds/posts/default
+http://thecathyckpage.tumblr.com/rss
+http://thecompassdiaries.blogspot.com/feeds/posts/default
+http://theelders.org/rss
+http://thefutureprimaeval.net/rss/
+http://thejogging.tumblr.com/rss
+http://thepeoplescloud.tumblr.com/rss
+http://thepiratebay.to/blog/rss
+http://thepowerofthrift.com/feed/
+http://thesociocracygroup.com/feed/ org
+http://thetravelmedley.com/feed/ nomad
+http://theviewfromhell.blogspot.com/feeds/posts/default
+http://thingofthings.wordpress.com/feed/
+http://thinkrelevance.com/blog/atom.xml
+http://thisishistorictimes.com/feed/ comic
+http://thousandcrow.postagon.com/feed
+http://timperrett.com/atom.xml code
+http://tink.uk/feed/
+http://tinyhappyhomes.com/feed/
+http://tinyhouseblog.com/feed/ truncated
+http://tinyhousegiantjourney.com/feed/
+http://tinysiphouse.blogspot.com/feeds/posts/default?alt=rss
+http://tomcstrength.com/lift/feed/ strength
+http://tonsky.me/blog/atom.xml
+http://tonyarcieri.com/feed
+http://trainheroic.com/category/featured/feed/ strength
+http://trainuntamed.com/feed/ strength
+http://trixie.thecomicseries.com/rss comic
+http://unenumerated.blogspot.com/feeds/posts/default
+http://unikernel.org/atom.xml code cloud
+http://unisonweb.org/feed.xml code
+http://unsongbook.com/feed/
+http://usesthis.com/feed/
+http://vandogtraveller.com/feed/
+http://vinay.howtolivewiki.com/blog/feed
+http://wadler.blogspot.com/feeds/posts/default
+http://waitbutwhy.com/feed
+http://waldenlabs.com/feed/
+http://weblogsky.com/feed/
+http://weblogsky.tumblr.com/rss
+http://westfaliadigitalnomads.com/feed/atom/
+http://whatikilledtoday.blogspot.com/feeds/posts/default
+http://wheelhaus.com/feed/ truncated
+http://whenwillthehurtingstop.blogspot.com/feeds/posts/default
+http://wheredoesthewisdomgo.com/rss
+http://widgetsandshit.com/teddziuba/atom2.xml
+http://wirfs-brock.com/blog/feed/
+http://worrydream.com/feed.xml
+http://worrydream.com/quotes/feed.xml
+http://www.1500days.com/feed/
+http://www.3dmusclejourney.com/feed/
+http://www.aaronkharris.com/posts.atom
+http://www.abeji.de/feed.xml
+http://www.actionbutton.net/?feed=rss2 games
+http://www.actsofvolition.com/feed
+http://www.alanaragonblog.com/feed/ slim
+http://www.alcor.org/blog/feed/
+http://www.allthingsdistributed.com/atom.xml cloud
+http://www.alterconf.com/blog.xml ~AlterConf
+http://www.aluminarium.com/feed/
+http://www.andrewalexanderprice.com/blog.rss
+http://www.antipope.org/charlie/blog-static/atom.xml
+http://www.asymco.com/feed/ biz
+http://www.awsarchitectureblog.com/atom.xml cloud
+http://www.barbellmedicine.com/feed/ strength
+http://www.bay12games.com/dwarves/dev_now.rss games
+http://www.bazel.io/blog/feed.xml
+http://www.beyermatthias.de/feeds/all.atom.xml ~musicmaztes
+http://www.biztorming.com.ar/en/feed/
+http://www.bldgblog.com/feed/
+http://www.bodyrecomposition.com/feed/
+http://www.carliving.info/blogwp/?feed=rss2
+http://www.catonmat.net/feed/
+http://www.centerforneweconomics.org/rss.xml
+http://www.cheaprvliving.com/feed/
+http://www.claytonchristensen.com/latest-thinking-innovation-blog/feed/
+http://www.cohousing.org/rss.xml
+http://www.collisiondetection.net/index.rdf
+http://www.cometcamper.com/blog?format=RSS
+http://www.confluent.io/blog/rss.xml code
+http://www.copenhagenize.com/feeds/posts/default
+http://www.coppolacomment.com/feeds/posts/default
+http://www.crimethinc.com/blog/feed/
+http://www.daemonology.net/blog/index.rss truncated code
+http://www.defmacro.org/feed.atom biz
+http://www.devreps.com/blog?format=RSS
+http://www.doublefine.com/rss/ games
+http://www.driversofchange.com/feed/
+http://www.dsausa.org/latest_news.rss
+http://www.ebaytechblog.com/feed/
+http://www.elidedbranches.com/feeds/posts/default
+http://www.eruditorumpress.com/blog/feeds/rss/
+http://www.evanmiller.org/news.xml
+http://www.exodusemulator.com/itemlist?format=feed
+http://www.expatsoftware.com/blog/rss.aspx
+http://www.forbes.com/sites/venkateshrao/feed/
+http://www.fourlightshouses.com/blogs/news.atom
+http://www.frankchimero.com/feed.xml
+http://www.freightfarms.com/blog?format=RSS
+http://www.frostyfish.com/feed/
+http://www.ftrain.com/xml/feed/rss.xml
+http://www.futurepundit.com/index.rdf truncated
+http://www.gamedevblog.com/atom.xml
+http://www.geo.coop/articles/rss "~Grassroots Economic Organizing" org truncated
+http://www.gfintegrity.org/feed/
+http://www.gnu.org/rss/whatsnew.rss
+http://www.go-van.com/rss.xml
+http://www.gocurrycracker.com/feed/
+http://www.gridsagegames.com/blog/feed/ games
+http://www.guardian.co.uk/commentisfree/series/glenn-greenwald-security-liberty/rss
+http://www.guidemesingapore.com/feed
+http://www.harkavagrant.com/rssfeed.php comic
+http://www.haskellforall.com/feeds/posts/default code haskell
+http://www.homefreeamerica.us/feed/
+http://www.howardism.org/index.xml
+http://www.huffingtonpost.com/feeds/reporting/dan-froomkin/news.xml
+http://www.iftf.org/rss-feed/
+http://www.intelligent-artifice.com/feed "~Intelligent Artifice" "game design"
+http://www.interfluidity.com/feed
+http://www.jesperjuul.net/ludologist/feed
+http://www.joelonsoftware.com/rss.xml
+http://www.johnnyfd.com/feeds/posts/default
+http://www.joyent.com/blog/feed
+http://www.justinccohen.com/blog?format=RSS
+http://www.kalzumeus.com/feed/
+http://www.kijanigrows.com/feed/
+http://www.kitchensoap.com/feed/
+http://www.kschroeder.com/weblog/rss.xml "~Karl Schroeder"
+http://www.lastwordonnothing.com/feed/
+http://www.latorra.org/feed/atom/
+http://www.lifeedited.com/feed/
+http://www.literatureandlatte.com/blog/?feed=rss2
+http://www.loper-os.org/?feed=rss2
+http://www.lumpley.com/anyway_rss.php
+http://www.lutherlevy.com/?feed=rss2 comic
+http://www.magicalwasteland.com/atom.xml
+http://www.mangahere.co/rss/ajin.xml comic
+http://www.mangahere.co/rss/arslan_senki.xml comic
+http://www.mangahere.co/rss/berserk.xml comic
+http://www.mangahere.co/rss/chio_chan_no_tsuugakuro.xml comic
+http://www.mangahere.co/rss/dainana_joshikai_houkou.xml comic
+http://www.mangahere.co/rss/gleipnir.xml comic
+http://www.mangahere.co/rss/helck.xml comic
+http://www.mangahere.co/rss/hunter_x_hunter.xml comic
+http://www.mangahere.co/rss/inu_yashiki.xml comic
+http://www.mangahere.co/rss/jojos_bizarre_adventure_part_8_jojolion.xml comic
+http://www.mangahere.co/rss/kaguya_sama_wa_kokurasetai_tensai_tachi_no_renai_zunousen.xml comic
+http://www.mangahere.co/rss/kanojo_wa_rokurokubi.xml comic
+http://www.mangahere.co/rss/karakuri_circus.xml comic
+http://www.mangahere.co/rss/kengan_ashua.xml comic
+http://www.mangahere.co/rss/kumo_desu_ga_nani_ka.xml comic
+http://www.mangahere.co/rss/kuutei_dragons.xml comic
+http://www.mangahere.co/rss/shingeki_no_kyojin.xml comic
+http://www.mangahere.co/rss/shuukan_shounen_girl.xml comic
+http://www.mangahere.co/rss/silver_spoon.xml comic
+http://www.mangahere.co/rss/tamen_de_gushi.xml comic
+http://www.mangahere.co/rss/uratarou.xml comic
+http://www.mangahere.co/rss/vector_ball.xml comic
+http://www.mangahere.co/rss/vinland_saga.xml comic
+http://www.mangahere.co/rss/yakusoku_no_neverland.xml comic
+http://www.mangahere.co/rss/yuusha_ga_shinda.xml comic
+http://www.michaelnygard.com/atom.xml
+http://www.mikeperham.com/feed.xml
+http://www.minimalstudent.com/feed/
+http://www.moishelettvin.com/feed.xml
+http://www.morethanseven.net/atom.xml
+http://www.mrdestructo.com/feeds/posts/default
+http://www.mspaintadventures.com/rss/rss.xml
+http://www.ncameron.org/blog/rss/
+http://www.newdream.org/blog-rss "~Center for a New American Dream" min
+http://www.nirandfar.com/feed truncated
+http://www.noelrappin.com/railsrx/?format=rss
+http://www.nomadicmatt.com/feed/ nomad
+http://www.oglaf.com/feeds/rss/ comic
+http://www.paperplanes.de/rss.xml
+http://www.patentprogress.org/feed/
+http://www.paulpolak.com/feed/
+http://www.pbfcomics.com/feed/feed.xml
+http://www.personalkanban.com/pk/feed/
+http://www.philosopher.eu/feed/
+http://www.poumeyrol.fr/atom.xml
+http://www.psychotherapynotes.com/feed/
+http://www.raphkoster.com/feed/
+http://www.raptitude.com/feed/
+http://www.rdwolff.com/blog.rss
+http://www.ribbonfarm.com/feed/
+http://www.rifters.com/crawl/?feed=rss2
+http://www.rmi.org/rss/Home
+http://www.ruby-lang.org/en/feeds/news.rss
+http://www.saltstack.com/feed/
+http://www.sandimetz.com/blog?format=RSS
+http://www.schneems.com/feed.xml
+http://www.schneier.com/blog/atom.xml
+http://www.schumacherinstitute.org.uk/feed/
+http://www.serpentine.com/blog/feed/ code haskell
+http://www.shelterwise.com/feed/ "~Shelter Wise"
+http://www.shirky.com/weblog/feed/
+http://www.sociocracy.info/feed/ org
+http://www.sociocracyforall.org/feed/ org
+http://www.spaaace.com/cope/?feed=rss2
+http://www.spacex.com/news.xml ~SpaceX
+http://www.sprinter-rv.com/feed/
+http://www.sprintervandiaries.com/feed/
+http://www.strengtheory.com/feed/ strength
+http://www.susanjfowler.com/blog?format=RSS
+http://www.tablexi.com/feed/
+http://www.tannerbaze.com/feed/atom/
+http://www.technomadia.com/feed/
+http://www.tenra-rpg.com/blog/?feed=atom
+http://www.terasemmovementfoundation.com/feed
+http://www.thattommyhall.com/feed.xml code
+http://www.theatlantic.com/feed/author/ian-bogost/ truncated
+http://www.theatlantic.com/feed/author/james-fallows/ truncated
+http://www.theatlantic.com/feed/author/ta-nehisi-coates/
+http://www.theguardian.com/profile/corydoctorow/rss truncated
+http://www.theminimalists.com/feed/
+http://www.thepaincomics.com/painfeed.xml comic
+http://www.theprofessionalhobo.com/feed/
+http://www.therooststand.com/blogs/the-roost-blog.atom
+http://www.thesimpledollar.com/feed/ "~The Simple Dollar"
+http://www.thoughtcrime.org/blog/rss.xml
+http://www.tombihn.com/blog/feed
+http://www.traipsingabout.com/feed/
+http://www.tropicalmba.com/feed/
+http://www.ultimaratioregum.co.uk/game/feed/ games
+http://www.urbanophile.com/feed/
+http://www.vagabondjourney.com/feed/
+http://www.vanventuresjournal.com/journal?format=RSS
+http://www.wearecto2.com/blog?format=RSS
+http://www.wired.com/category/beyond_the_beyond/feed/ "~Beyond the Beyond"
+http://www.yegor256.com/rss
+http://www.zeldman.com/feed/
+http://xeroshoes.com/feed/ truncated
+http://xlengine.com/feed/ "~XL Engine" games
+http://yieldthought.com/rss
+http://yourdungeonissuck.wordpress.com/feed/
+http://zachholman.com/atom.xml
+http://zenhabits.net/feed/
+http://zerocurrency.blogspot.com/feeds/posts/default
+http://zoatebix.livejournal.com/data/rss
+https://80000hours.org/feed/
+https://about.gitlab.com/atom.xml
+https://ahmetalpbalkan.com/blog/feed/rss.xml "~Ahmet Alpbalkan" code docker golang
+https://al3x.net/atom.xml
+https://aucouranton.com/feed/
+https://aws.amazon.com/blogs/aws/feed/
+https://aws.amazon.com/blogs/compute/feed/
+https://aws.amazon.com/blogs/developer/feed/
+https://aws.amazon.com/security/security-bulletins/feed/ "~AWS Security Bulletins"
+https://blog.cloudflare.com/rss/
+https://blog.drewolson.org/rss/ code "~Drew Olson"
+https://blog.ethereum.org/feed/
+https://blog.flyingcircus.io/feed/ code
+https://blog.ghost.org/rss/
+https://blog.golang.org/feed.atom
+https://blog.holacracy.org/feed org
+https://blog.irccloud.com/feed.xml
+https://blog.jessfraz.com/index.xml
+https://blog.mozilla.org/feed/
+https://blog.mozilla.org/javascript/feed/ "~Mozilla JavaScript Blog"
+https://blog.mozilla.org/webdev/feed/
+https://blog.nstack.com/rss/
+https://blog.patternsinthevoid.net/feeds/all.atom.xml
+https://blog.pinboard.in/feed/
+https://blog.readme.io/rss/
+https://blog.silverorange.com/feed truncated
+https://blog.skyliner.io/feed code
+https://blog.thesurfoffice.com/feed nomad
+https://blog.twitter.com/api/blog.rss?name=engineering "~Twitter Engineering"
+https://blog.wealthfront.com/feed/
+https://blog.websummit.net/feed/
+https://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss
+https://boxfuse.com/blog/atom.xml
+https://brendaneich.com/feed/
+https://charity.wtf/feed/
+https://clusterhq.com/feed.xml
+https://code.facebook.com/posts/rss code truncated
+https://codingvc.com/feed.xml
+https://convox.com/blog/rss.xml
+https://coreos.com/atom.xml
+https://davmac.wordpress.com/feed/
+https://dennisforbes.ca/index.php/feed/
+https://dev.ghost.org/rss/ ~Ghost
+https://devblog.paypal.com/feed/
+https://developer.github.com/changes.atom
+https://diracdeltas.github.io/blog/index.xml
+https://dymaxion.org/rss.xml truncated org code
+https://eev.ee/feeds/atom.xml
+https://elusivemoose.com/feed/atom/ code
+https://eng.asana.com/feed/ truncated code
+https://eng.lyft.com/feed truncated code
+https://eng.uber.com/feed/ truncated code
+https://engblog.nextdoor.com/feed/ truncated code
+https://engineering.groupon.com/feed/ code
+https://engineering.pinterest.com/blog/rss code
+https://escapees.com/articles-and-blogs?format=feed&type=rss ~Escapees rv truncated
+https://feeds.feedburner.com/ponyfoo code
+https://feeds2.feedburner.com/ReadItLaterBlog
+https://fsfe.org/news/news.en.rss
+https://garbas.si/feeds/all.rss.xml nix code
+https://git-annex.branchable.com/devblog/index.atom ~git-annex
+https://github.com/blog.atom
+https://gottcode.wordpress.com/feed/
+https://gun.io/feed/
+https://gyrovague.com/feed/
+https://hacks.mozilla.org/feed/
+https://hypatia.ca/feed/
+https://hyper.hypotheses.org/feed
+https://insights.sei.cmu.edu/sei_blog/atom.xml
+https://joearms.github.io/feed.xml
+https://joeyh.name/blog/index.rss code
+https://joinbrigade.wordpress.com/feed/
+https://joshuaearl.com/feed/
+https://justgetflux.com/news/atom.xml
+https://juxt.pro/blog/rss.xml
+https://kinvolk.io/blog/index.xml code
+https://labnotes.org/rss/
+https://labs.spotify.com/feed/ "~Spotify Labs"
+https://larvalsubjects.wordpress.com/feed/
+https://lastlog.de/blog/feed.xml
+https://legalese.com/blog.rss
+https://lengstorf.com/blog/index.xml "~Jason Lengstorf"
+https://letsencrypt.org/feed.xml
+https://levels.io/feed/
+https://mako.cc/copyrighteous/feed
+https://matt.aimonetti.net/atom.xml code 
+https://medium.com/feed/@academia truncated
+https://medium.com/feed/@jennschiffer truncated
+https://medium.com/feed/@mattetti code golang truncated
+https://medium.com/feed/brief-blog truncated
+https://medium.com/feed/enspiral-tales org
+https://medium.com/feed/frog-and-toad-are-cofounders
+https://medium.com/feed/medium-eng truncated
+https://medium.com/feed/mine-labs truncated
+https://medium.com/feed/os-os org truncated
+https://medium.com/feed/prezi-engineering truncated code
+https://medium.com/feed/scratchfoundation-blog
+https://medium.com/feed/studio-d nomad
+https://meteuphoric.wordpress.com/feed/
+https://michaelfeathers.silvrback.com/feed
+https://mikedillon.wordpress.com/feed/
+https://mirage.io/blog/atom.xml
+https://modelviewculture.com/feed
+https://moz.com/devblog/category/development/feed/
+https://neovim.io/news.xml
+https://news.floobits.com/feed.atom
+https://nomadlist.io/blog/feed/ nomad truncated
+https://noordwind.com/feed/ org
+https://ocharles.org.uk/blog/posts.rss
+https://open.bufferapp.com/feed/
+https://openmw.org/en/feed/ games
+https://opensource.org/blog.xml "~Open Source Initiative Board"
+https://orchardup.com/blog/feed
+https://otherlab.com/feed "~Otherlab"
+https://ourincrediblejourney.tumblr.com/rss
+https://overflow.bufferapp.com/feed/
+https://popehat.com/feed/
+https://pragdave.me/index.xml code truncated
+https://precompile.com/feed.xml truncated
+https://propellor.branchable.com/posts/index.rss
+https://queal.eu/feed/ truncated
+https://remysharp.com/feed.xml code
+https://rework.withgoogle.com/blog/feed/ truncated
+https://sanctum.geek.nz/arabesque/feed/
+https://sandstorm.io/feed.xml
+https://shubhamjain.co/index.xml
+https://signalvnoise.com/posts.rss
+https://simpleprogrammer.com/feed/ code truncated
+https://smartos.org/feed/ code
+https://stactivist.com/feed/
+https://stripe.com/blog/feed.rss
+https://sudoroom.org/feed/
+https://tech.dropbox.com/feed/
+https://tech.zalando.com/blog/rss-all.xml
+https://techblog.livingsocial.com/atom.xml
+https://technotropolis.wordpress.com/feed/ "~Janet Parkinson" org
+https://tenderlovemaking.com/atom.xml
+https://tianon.github.io/atom.xml
+https://topherhallquist.wordpress.com/feed/
+https://trello.engineering/feed.xml
+https://ttboj.wordpress.com/feed/ code
+https://unicornfree.com/feed
+https://weeklysift.com/feed/
+https://whispersystems.org/blog/rss.xml
+https://www.baystrength.com/feed/ strength truncated
+https://www.betterment.com/feed/
+https://www.braintreepayments.com/rss
+https://www.cockroachlabs.com/feed/
+https://www.cognician.com/blog/atom.xml
+https://www.deekit.com/blog/feed.xml
+https://www.defrancostraining.com/blog/feed/ strength health athleticism
+https://www.digitalocean.com/blog/feed
+https://www.domenkozar.com/feed/atom/index.xml
+https://www.educationfutures.com/feed/
+https://www.edwardtufte.com/bboard/asket.xml
+https://www.givedirectly.org/blog-feed
+https://www.givingwhatwecan.org/blog.xml
+https://www.hashicorp.com/feed.xml
+https://www.hella.cheap/feeds/all.atom.xml
+https://www.honeybadger.io/blog/atom.xml truncated code
+https://www.ietf.org/blog/feed/
+https://www.jwz.org/blog/feed/
+https://www.kickstarter.com/backing-and-hacking.atom
+https://www.masteringemacs.org/feed
+https://www.omnigroup.com/blog/rss/
+https://www.pandastrike.com/rss.xml
+https://www.paypal-engineering.com/feed/
+https://www.plausible.coop/blog/?feed=rss2
+https://www.recurse.com/blog.rss
+https://www.roqchams.com/feed/
+https://www.simple.com/engineering-rss.xml
+https://www.softwarefreedom.org/feeds/blog/ truncated
+https://www.softwarefreedom.org/feeds/news/ truncated
+https://www.tbray.org/ongoing/ongoing.atom
+https://www.texashomebase.com/feed/
+https://www.thevenusproject.com/feed/ truncated
+https://www.usenix.org/blog/rss.xml truncated
+https://www.valent.io/feed/ code truncated
+https://www.wagonhq.com/blog/feed.xml code haskell
+https://www.youtube.com/feeds/videos.xml?channel_id=UC0BNMeyXj5EtqrkIp6VpZFQ video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC1O2eb_ZAiEyBzYpdEc3B0w video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC4-GrpQBx6WCGwmwozP744Q video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC5FaqTBy0c1jlRUHKu4SuXQ video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8EQAfueDGNeqb1ALm0LjHA video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC8fhb7upVSZ0q-zK5snR9BA video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBDWo0g9N8pL8c9QhE8Lxxw video youtube strength
+https://www.youtube.com/feeds/videos.xml?channel_id=UCGoGVA6kYRWi9OZzLcqueeg video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCK-6FjMu9OI8i0Fo6bkW0VA
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKrD_GYN3iDpG_uMmADPzJQ video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCLPy6BEgH1fD3DOgwX-x_Hg strength video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCN2nbMPLJWv3Y__4JuF_hMQ video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCRLOLGZl3-QTaJfLmAKgoAw video youtube strength
+https://www.youtube.com/feeds/videos.xml?channel_id=UCWnPjmqvljcafA0z2U1fwKQ video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXLTJY0lobR124elASvxojg video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_9SjsqyO87d4aZkEqNuHBA video youtube strength
+https://www.youtube.com/feeds/videos.xml?channel_id=UC_zrSsb-Rz2KNhoHBOxEgvw video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaHx0T1LWrVKWF1XfWWLSuw video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaLlzGqiPE2QRj6sSOawJRg video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCduKuJToxWPizJ7I2E6n1kA video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoj4eQh_dZR37lL78ymC6XA video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCp1xCZ4ODNM2OJuKoBrghDA video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCs_tLP3AiwYKwdUHpltJPuA video youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsvn_Po0SmunchJYOWpOxMg video youtube games
+https://yanisvaroufakis.eu/feed/ truncated
+https://zef.me/feed

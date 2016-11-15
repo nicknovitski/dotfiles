@@ -1,0 +1,31 @@
+browser "tmux new-window links"
+
+save-path ~/Documents/newsbeuter
+
+color info blue white
+color listfocus white yellow
+text-width 76
+
+always-display-description true
+download-full-page yes
+
+show-read-feeds no
+show-read-articles no
+
+article-sort-order date-asc
+
+# datetime-format "something" (strftime)
+
+# filter out podcasts and videos I subscribe to separately, for now
+ignore-mode "display"
+ignore-article "http://feeds.feedburner.com/techdirt/feed" "title =~ \"Daily Deal\" or title =~ \"^This Week in Techdirt History\" or title =~ \"Techdirt Podcast\""
+ignore-article "http://feeds.feedburner.com/smartpassiveincome" "title =~ \"SPI TV\" or title =~ \"^SPI\""
+ignore-article "http://www.tropicalmba.com/feed/" "title =~ \"^TMBA\""
+ignore-article "http://startingstrength.com/rss.rss" "title =~ \"^Episode \" or title =~ \"^Ask Rip #\" or title =~ \"Podcast$\""
+ignore-article "https://www.youtube.com/feeds/videos.xml?channel_id=UC5FaqTBy0c1jlRUHKu4SuXQ" "title =~ \"Starting Strength Podcast\""
+ignore-article "https://signalvnoise.com/posts.rss" "title =~ \"^New in Basecamp\""
+ignore-article "https://blogs.aws.amazon.com/application-management/blog/feed/recentPosts.rss" "title =~ \"OpsWorks\" or title =~ \"Beanstalk\""
+ignore-article "http://feeds.feedburner.com/alistapart/main" "title =~ \"^This week's sponsor\""
+ignore-article "http://www.lastwordonnothing.com/feed/" "title =~ \"^The Last Word$\""
+ignore-article "http://www.schneier.com/blog/atom.xml" "title =~ \"^Friday Squid Blogging\""
+
